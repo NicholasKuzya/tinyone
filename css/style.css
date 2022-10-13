@@ -40,19 +40,19 @@ body
 	transform: scale3d(2, 2, 2);
 	color: #FF8C00;
 }
-.b-banner
+.b-baner
 {
 	margin-top: -165px;
 	padding-top: 220px;
 	padding-bottom: 110px;
 	background-color: #fcdb00;
 }
-.b-banner-content
+.b-baner-content
 {
 	max-width: 400px;
 	margin-top: 45px;
 }
-.b-banner-text
+.b-baner-text
 {
 	margin: 10px 0;
 	font-size: 20px;
@@ -61,28 +61,28 @@ body
 	line-height: 24px;
 	text-align: left;
 }
-.b-banner-content h1
+.b-baner-content h1
 {
 	font-size: 32px;
 	font-weight: bold;
 	color: #010101;
 }
-.b-banner-content p
+.b-baner-content p
 {
 	line-height: 20px;
 	font-size: 16px;
 	color: #555555;
 }
-.b-banner-image-mobile
+.b-baner-image-mobile
 {
 	display: none;
 }
-.b-banner-image
+.b-baner-image
 {
 	margin-top: -20px;
 	text-align: right;
 }
-.b-banner-icons
+.b-baner-icons
 {
 	margin-top: 30px;
 }
@@ -90,12 +90,12 @@ body
 {
 	margin-top: 40px;
 }
-.b-banner-icons, .b-banner-icons1
+.b-baner-icons, .b-baner-icons1
 {
 	display: inline-block;
 	margin-left: 40px;
 }
-.b-banner-icons, .b-banner-icons1:first-child
+.b-baner-icons, .b-baner-icons1:first-child
 {
 	margin-left: 0;
 }
@@ -235,7 +235,7 @@ body
 	{
 		height: 30px;
 	}
-	.b-banner-content
+	.b-baner-content
 	{
 		max-width: initial;
 	}
@@ -267,27 +267,27 @@ body
 	font-size: 18px;
 	padding: 10px;
 	}
-	.b-banner
+	.b-baner
 	{
 		text-align: center;
 	}
-	.b-banner-image-mobile
+	.b-baner-image-mobile
 	{
 		display: block;
 	}
-	.b-banner-image-mobile img
+	.b-baner-image-mobile img
 	{
 		max-width: 200px;
 	}
-	.b-banner-image
+	.b-baner-image
 	{
 		display: none;
 	}
-	.b-banner-content h1
+	.b-baner-content h1
 	{
 		font-size: 26px;
 	}
-	.b-banner-text
+	.b-baner-text
 	{
 		text-align: center;
 		font-size: 20px;
@@ -344,24 +344,24 @@ body
 
 @media (max-width: 768px)
 {
-	.b-banner
+	.b-baner
 	{
 		padding-top: 175px;
 		padding-bottom: 70px;
 	}
-	.b-banner-content 
+	.b-baner-content 
 	{
 		margin-top: 20px;
 	}
-	.b-banner-content h1
+	.b-baner-content h1
 	{
 		font-size: 24px;
 	}
-	.b-banner-text
+	.b-baner-text
 	{
 		font-size: 18px;
 	}
-	.b-banner-icons1
+	.b-baner-icons1
 	{
 		margin-left: 25px;
 	}
@@ -434,35 +434,35 @@ body
 }
 @media (max-width: 576px)
 {
-	.b-banner
+	.b-baner
 	{
 		padding-bottom: 50px;
 	}
-	.b-banner-content h1
+	.b-baner-content h1
 	{
 		font-size: 20px;
 	}
-	.b-banner-text
+	.b-baner-text
 	{
 		font-size: 16px;
 		line-height: 130%;
 	}
-	.b-banner-content p
+	.b-baner-content p
 	{
 		padding: 0 15px;
 		font-size: 14px;
 		line-height: 130%;
 		margin-bottom: 0;
 	}
-	.b-banner-icons1
+	.b-baner-icons1
 	{
 		margin-left: 10px;
 	}
-	.b-banner-icons1 img
+	.b-baner-icons1 img
 	{
 		height: 25px;
 	}
-	.b-banner-image-mobile img
+	.b-baner-image-mobile img
 	{
 		max-width: 25vw;
 	}
